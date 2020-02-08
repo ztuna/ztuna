@@ -21,7 +21,7 @@ h1 {
 .top-left {
     position: absolute;
     top: 8px;
-    left: 16px;
+    left: 8px;
 }
 .center-fit {
     max-width: 100%;
