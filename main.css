@@ -31,5 +31,20 @@
 .center-fit {
     width: 100%;
     max-height: 100%;
-    
+    margin: auto;
+}
+.bar {
+    list-style-type: none;
+    margin: 20;
+    padding: 0;
+    overflow: hidden;
+  }
+.lines {
+    text-align: right;
+    display: block;
+    padding: 8px;
+    color: #000000;
+    float: right;
+    padding: 14px 16px;
+    font-size: 17px;
 }
