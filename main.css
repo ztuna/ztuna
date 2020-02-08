@@ -6,6 +6,10 @@
     font-family: 'Lato', sans-serif;
     color:red;
 }
+#margin {
+
+    margin: 5%;
+}
 * {
     margin: 0;
     padding: 0;
@@ -25,7 +29,7 @@
     size: 20vh;
 }
 .center-fit {
-    max-width: 100%;
+    width: 100%;
     max-height: 100%;
-    margin: auto;
+    
 }
